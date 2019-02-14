@@ -14,7 +14,7 @@
 
 baseURL = "https://gcmourao.github.io/"
 #"https://gcmourao.netlify.com/"
-publishDir = "../gcmourao.github.io"
+publishDir = "C:/Users/gcmou/Documents/GitHub/gcmourao.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Gabriela Mourao"
