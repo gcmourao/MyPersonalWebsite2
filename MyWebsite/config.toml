@@ -14,11 +14,11 @@
 
 baseURL = "https://gcmourao.github.io/"
 #"https://gcmourao.netlify.com/"
-publishDir = "C:/Users/gcmou/Documents/GitHub/gcmourao.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Gabriela Mourao"
 theme = "hugo-tranquilpeak-theme"
+math = true
 #disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
@@ -26,6 +26,10 @@ paginate = 7
 
 [permalinks]
   post = "/:year/:month/:slug/"
+
+
+publishDir = "C:/Users/gcmou/Documents/GitHub/gcmourao.github.io"  
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [taxonomies]
   tag = "tags"
