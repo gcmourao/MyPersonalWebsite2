@@ -164,7 +164,7 @@ Following you can find some usage examples of the mentioned options:
             theme: lumen
 ```
 
-![](C:/Users/gcmou/Documents/GitHub/MyPersonalWebsite2/personal_website2/public/images/output1.png)
+![](output1.png)
 
 
 <br>
