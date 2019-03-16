@@ -35,7 +35,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   tag = "tags"
   category = "categories"
   archive = "archives"
-  bio = "bio"
 
 [author]
   name = "Gabriela Mourao"
@@ -61,10 +60,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "/"
 [[menu.main]]
   weight = 2
-  identifier = "bio"
-  name = "Bio"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
-  url = "/content/bio"
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  #url = "/#about"
+  url = "/about/index.html"
 [[menu.main]]
   weight = 3
   identifier = "categories"
@@ -83,13 +83,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 6
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
-
 [[menu.links]]
   weight = 1
   identifier = "github"
