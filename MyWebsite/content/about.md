@@ -27,7 +27,7 @@ Nowadays, I’m Master of Science in Business Analytics Candidate at University 
 <br>
 I decided to setup this Blog because I wanted to share the personal projects that I have been working on. Writing our thoughts in systematic way to come up with a shareable information it is not always easy, but I believe that we end up learning even more in this process. Besides that, the opportunity to have valuable feedbacks about my projects makes me feel excited for learning from new perspectives!<br>
 This Blog was built using Hugo Themes (I’m using the tranquilpeak theme) powered by Blogdown package in R, which is my favorite programming language. Besides R, I also code in Python and SAS.<br>
-I hope you enjoy my blog and I would be vey happy to receive some feedbacks about it.<br>
+I hope you enjoy my blog and I would be very happy to receive some feedbacks about it.<br>
 
 
 
