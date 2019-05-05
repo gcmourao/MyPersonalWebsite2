@@ -12,7 +12,7 @@ keywords:
 ---
 
 
-I graduated with a bachelor’s degree in Economics from the Federal University of Minas Gerais in Belo Horizonte/Brazil. Since the very beginning of the course I got passionate about Statistical Modeling after taking some Econometric courses.  After that, I decided to deepen my knowledge attending some additional courses like Calculus, Linear Algebra and Differential Equations in the University’s Statistics department.<br>
+I was graduated from the University of Minas Gerais (Belo Horizonte/ Brazil) in 2010 with a bachelor degree in Economics. Since the very beginning of the course I got passionate about Statistical Modeling after taking some Econometric courses.  After that, I decided to deepen my knowledge attending some additional courses like Calculus, Linear Algebra and Differential Equations in the University’s Statistics department.<br>
 After my graduation, I had the opportunity to live in the biggest cities in Brazil: Sao Paulo and Rio de Janeiro. My work experience includes banking and consultancy industries, always working in the Data Science field.<br>
 
 <br>
@@ -23,7 +23,8 @@ Nowadays, I’m Master of Science in Business Analytics Candidate at University 
 <br>
 ![](https://res.cloudinary.com/gcmourao/image/upload/v1552704615/hk.png)
 <br>
-# About my Blog: <br>
+
+**About my Blog:** <br>
 <br>
 I decided to setup this Blog because I wanted to share the personal projects that I have been working on. Writing our thoughts in systematic way to come up with a shareable information it is not always easy, but I believe that we end up learning even more in this process. Besides that, the opportunity to have valuable feedbacks about my projects makes me feel excited for learning from new perspectives!<br>
 This Blog was built using Hugo Themes (I’m using the tranquilpeak theme) powered by Blogdown package in R, which is my favorite programming language. Besides R, I also code in Python and SAS.<br>
